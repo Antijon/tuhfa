@@ -1,0 +1,6 @@
+Place these files in this folder:
+01.pdf
+02.pdf
+03.pdf
+...
+12.pdf
